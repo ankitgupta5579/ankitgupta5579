@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Analytics projects using Python, SQL & Power BI<br>👯 I’m looking to collaborate on Data Analysis and Visualization projects<br>🤝 I’m looking for help with Advanced SQL, Power BI & Data Analytics<br>🌱 I’m currently learning Advanced Data Analytics, DAX & AI-powered analytics<br>💬 Ask me about Python, SQL, Power BI, Pandas & Data Visualization<br>⚡ Fun fact: I enjoy turning raw data into meaningful insights!
+## 👋 About Me
+
+I’m an aspiring **Data Analyst** passionate about transforming data into meaningful insights and actionable business decisions.
+
+- 📊 Working on **Data Analytics & Visualization** projects
+- 🐍 Using **Python, SQL, Pandas, and Power BI** for data analysis
+- 📈 Building interactive dashboards and exploring data-driven solutions
+- 🧠 Currently strengthening my skills in **Advanced SQL, DAX, and Advanced Data Analytics**
+- 🤖 Exploring the use of **AI in Data Analytics**
+- 🤝 Open to collaborating on **Data Analysis, Business Intelligence, and Data Visualization** projects
+
+> ⚡ **My goal:** Turn complex data into clear insights that help drive better decisions.
 
 
 ## 🌐 Socials:
