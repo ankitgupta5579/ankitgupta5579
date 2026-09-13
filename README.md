@@ -1,15 +1,3 @@
-## 👋 About Me
-
-I’m an aspiring **Data Analyst** passionate about transforming data into meaningful insights and actionable business decisions.
-
-- 📊 Working on **Data Analytics & Visualization** projects
-- 🐍 Using **Python, SQL, Pandas, and Power BI** for data analysis
-- 📈 Building interactive dashboards and exploring data-driven solutions
-- 🧠 Currently strengthening my skills in **Advanced SQL, DAX, and Advanced Data Analytics**
-- 🤖 Exploring the use of **AI in Data Analytics**
-- 🤝 Open to collaborating on **Data Analysis, Business Intelligence, and Data Visualization** projects
-
-> ⚡ **My goal:** Turn complex data into clear insights that help drive better decisions.
 
 
 ## 🌐 Socials:
