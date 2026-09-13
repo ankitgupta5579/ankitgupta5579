@@ -1,4 +1,15 @@
+👋 About Me
 
+I'm Ankit Gupta — a developer and data enthusiast who enjoys building end-to-end, from full-stack web apps to data-driven dashboards.
+
+🌐 I build with JavaScript, Python, and Java, shipping projects on Netlify and Vercel, backed by AWS, MySQL, Postgres, and Supabase.
+📊 On the data side, I work with Pandas, NumPy, and Matplotlib to explore and visualize data, and use Power BI to turn it into decisions.
+⚙️ I care about clean workflows — Git and GitHub Actions are part of how I ship, not an afterthought.
+🎨 I use Canva for quick design work when a project needs a visual touch.
+📈 Currently deepening my skills in analytics engineering — working toward Microsoft's Fabric Analytics Engineer (DP-600) certification, and exploring how Fabric, Lakehouses, and semantic models fit alongside the tools above.
+🚀 I like projects that connect the dots between building software and understanding the data it produces.
+
+📫 Reach me via the links above — always open to collaborating on interesting projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-gupta-b63b9432b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitgupta5579@gmail.com) 
