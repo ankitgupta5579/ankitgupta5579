@@ -10,8 +10,6 @@ I'm **Ankit Gupta** — a developer and data enthusiast who enjoys building end-
 
 - 🎨 I use **Canva** for quick design work when a project needs a visual touch.
 
-- 📈 Currently deepening my skills in **analytics engineering** — working toward Microsoft's **Fabric Analytics Engineer (DP-600)** certification, and exploring how **Fabric, Lakehouses, and semantic models** fit alongside the tools above.
-
 - 🚀 I like projects that connect the dots between building software and understanding the data it produces.
 
 📫 Reach me via the links above — always open to collaborating on interesting projects.
